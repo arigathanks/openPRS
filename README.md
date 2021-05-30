@@ -7,6 +7,8 @@ This allows the development of  a community around sharing and improve plastic r
 
 It is also perfect way to get started into processing local plastic recycling and educating people.
 
+To learn more, check out our website at www.oprs.ga
+
 # Information about OPRS design and its components
 https://oprs.ga/design-info/
 
